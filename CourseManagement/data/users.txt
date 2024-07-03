@@ -1,0 +1,7 @@
+1,wageh,wageh@gmail.com,1234,male,admin
+2,kimo,kimo@gmail.com,12345,male,student
+3,m,sara@gmail.com,1234,male,instructor
+4,w,e,1234,w,instructor
+5,kimo,k@g.com,123,male,instructor
+6,w,w,w,w,student
+7,w,w,w,w,student

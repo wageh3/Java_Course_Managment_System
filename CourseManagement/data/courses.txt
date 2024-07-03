@@ -1,0 +1,14 @@
+1,Introduction to computer science,101,200,500.0$,Computer Science,2023-01-15,2023-04-15,Mon-Wed-Fri,30,0,0.0$,25
+2,Web Development Basics,102,201,600.0$,Information Technology,2023-02-01,2023-05-01,Tue-Thu,25,0,0.0$,20
+3,Data Science Fundamentals,103,202,700.0$,Data Science,2023-03-10,2023-06-10,Mon-Wed,20,0,0.0$,18
+4,Java Programming Advanced,104,203,800.0$,Computer Science,2023-04-05,2023-07-05,Thu-Sat,15,1,500.0$,12
+5,Mobile App Development,105,204,900.0$,Information Technology,2023-05-20,2023-08-20,Mon-Fri,18,0,0.0$,15
+6,Machine Learning Workshop,106,205,1000.0$,Data Science,2023-06-15,2023-09-15,Tue-Thu,12,3,750.0$,10
+7,Database Management Systems,107,206,1100.0$,Computer Science,2023-07-01,2023-10-01,Wed-Fri,22,0,0.0$,20
+8,Software Engineering Principles,108,207,1200.0$,Information Technology,2023-08-10,2023-11-10,Mon-Wed,28,0,0.0$,25
+9,Artificial Intelligence Fundamentals,109,208,1300.0$,Data Science,2023-09-05,2023-12-05,Thu-Sat,15,6,950.0$,12
+10,Cybersecurity Basics,110,209,1400.0$,Information Technology,2023-10-15,2024-01-15,Tue-Thu,18,0,0.0$,153
+12,System Information,122,40,2900.0$,Is,2022-05-14,2023-12-20,100,1000,0,1900.0$,1000
+13,w,23,4,4.0$,r,4,4,4,2,0,3.0$,2
+14,x,11,12,12000.0$,7,12/12,12/3,90,100,0,99000.0$,100
+15,math4,200,3,4000.0$,mokatam,10/1/2023,10/2/2025,300,300,0,2.0$,300
